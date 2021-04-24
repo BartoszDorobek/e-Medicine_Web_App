@@ -1,0 +1,48 @@
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\projekty\Microserice1\Doctors\Doctors.Domain\bin\Debug\net5.0\Doctors.Domain.deps.json
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\projekty\Microserice1\Doctors\Doctors.Domain\bin\Debug\net5.0\Doctors.Domain.dll
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\projekty\Microserice1\Doctors\Doctors.Domain\bin\Debug\net5.0\ref\Doctors.Domain.dll
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\projekty\Microserice1\Doctors\Doctors.Domain\bin\Debug\net5.0\Doctors.Domain.pdb
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\projekty\Microserice1\Doctors\Doctors.Domain\obj\Debug\net5.0\Doctors.Domain.csprojAssemblyReference.cache
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\projekty\Microserice1\Doctors\Doctors.Domain\obj\Debug\net5.0\Doctors.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\projekty\Microserice1\Doctors\Doctors.Domain\obj\Debug\net5.0\Doctors.Domain.AssemblyInfoInputs.cache
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\projekty\Microserice1\Doctors\Doctors.Domain\obj\Debug\net5.0\Doctors.Domain.AssemblyInfo.cs
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\projekty\Microserice1\Doctors\Doctors.Domain\obj\Debug\net5.0\Doctors.Domain.csproj.CoreCompileInputs.cache
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\projekty\Microserice1\Doctors\Doctors.Domain\obj\Debug\net5.0\Doctors.Domain.dll
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\projekty\Microserice1\Doctors\Doctors.Domain\obj\Debug\net5.0\ref\Doctors.Domain.dll
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\projekty\Microserice1\Doctors\Doctors.Domain\obj\Debug\net5.0\Doctors.Domain.pdb
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\projekty\Doctors\Doctors.Domain\bin\Debug\net5.0\Doctors.Domain.deps.json
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\projekty\Doctors\Doctors.Domain\bin\Debug\net5.0\Doctors.Domain.dll
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\projekty\Doctors\Doctors.Domain\bin\Debug\net5.0\ref\Doctors.Domain.dll
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\projekty\Doctors\Doctors.Domain\bin\Debug\net5.0\Doctors.Domain.pdb
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\projekty\Doctors\Doctors.Domain\obj\Debug\net5.0\Doctors.Domain.csprojAssemblyReference.cache
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\projekty\Doctors\Doctors.Domain\obj\Debug\net5.0\Doctors.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\projekty\Doctors\Doctors.Domain\obj\Debug\net5.0\Doctors.Domain.AssemblyInfoInputs.cache
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\projekty\Doctors\Doctors.Domain\obj\Debug\net5.0\Doctors.Domain.AssemblyInfo.cs
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\projekty\Doctors\Doctors.Domain\obj\Debug\net5.0\Doctors.Domain.csproj.CoreCompileInputs.cache
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\projekty\Doctors\Doctors.Domain\obj\Debug\net5.0\Doctors.Domain.dll
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\projekty\Doctors\Doctors.Domain\obj\Debug\net5.0\ref\Doctors.Domain.dll
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\projekty\Doctors\Doctors.Domain\obj\Debug\net5.0\Doctors.Domain.pdb
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\Lab3\Microservices\Doctors\Doctors.Domain\bin\Debug\net5.0\Doctors.Domain.deps.json
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\Lab3\Microservices\Doctors\Doctors.Domain\bin\Debug\net5.0\Doctors.Domain.dll
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\Lab3\Microservices\Doctors\Doctors.Domain\bin\Debug\net5.0\ref\Doctors.Domain.dll
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\Lab3\Microservices\Doctors\Doctors.Domain\bin\Debug\net5.0\Doctors.Domain.pdb
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\Lab3\Microservices\Doctors\Doctors.Domain\obj\Debug\net5.0\Doctors.Domain.csprojAssemblyReference.cache
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\Lab3\Microservices\Doctors\Doctors.Domain\obj\Debug\net5.0\Doctors.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\Lab3\Microservices\Doctors\Doctors.Domain\obj\Debug\net5.0\Doctors.Domain.AssemblyInfoInputs.cache
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\Lab3\Microservices\Doctors\Doctors.Domain\obj\Debug\net5.0\Doctors.Domain.AssemblyInfo.cs
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\Lab3\Microservices\Doctors\Doctors.Domain\obj\Debug\net5.0\Doctors.Domain.csproj.CoreCompileInputs.cache
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\Lab3\Microservices\Doctors\Doctors.Domain\obj\Debug\net5.0\Doctors.Domain.dll
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\Lab3\Microservices\Doctors\Doctors.Domain\obj\Debug\net5.0\ref\Doctors.Domain.dll
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\Lab3\Microservices\Doctors\Doctors.Domain\obj\Debug\net5.0\Doctors.Domain.pdb
+E:\SEM IV\PAIM\LABY\projekty\Solution1\Laboratorium\Microservices\Doctors\Doctors.Domain\bin\Debug\net5.0\Doctors.Domain.deps.json
+E:\SEM IV\PAIM\LABY\projekty\Solution1\Laboratorium\Microservices\Doctors\Doctors.Domain\bin\Debug\net5.0\Doctors.Domain.dll
+E:\SEM IV\PAIM\LABY\projekty\Solution1\Laboratorium\Microservices\Doctors\Doctors.Domain\bin\Debug\net5.0\ref\Doctors.Domain.dll
+E:\SEM IV\PAIM\LABY\projekty\Solution1\Laboratorium\Microservices\Doctors\Doctors.Domain\bin\Debug\net5.0\Doctors.Domain.pdb
+E:\SEM IV\PAIM\LABY\projekty\Solution1\Laboratorium\Microservices\Doctors\Doctors.Domain\obj\Debug\net5.0\Doctors.Domain.csprojAssemblyReference.cache
+E:\SEM IV\PAIM\LABY\projekty\Solution1\Laboratorium\Microservices\Doctors\Doctors.Domain\obj\Debug\net5.0\Doctors.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEM IV\PAIM\LABY\projekty\Solution1\Laboratorium\Microservices\Doctors\Doctors.Domain\obj\Debug\net5.0\Doctors.Domain.AssemblyInfoInputs.cache
+E:\SEM IV\PAIM\LABY\projekty\Solution1\Laboratorium\Microservices\Doctors\Doctors.Domain\obj\Debug\net5.0\Doctors.Domain.AssemblyInfo.cs
+E:\SEM IV\PAIM\LABY\projekty\Solution1\Laboratorium\Microservices\Doctors\Doctors.Domain\obj\Debug\net5.0\Doctors.Domain.csproj.CoreCompileInputs.cache
+E:\SEM IV\PAIM\LABY\projekty\Solution1\Laboratorium\Microservices\Doctors\Doctors.Domain\obj\Debug\net5.0\Doctors.Domain.dll
+E:\SEM IV\PAIM\LABY\projekty\Solution1\Laboratorium\Microservices\Doctors\Doctors.Domain\obj\Debug\net5.0\ref\Doctors.Domain.dll
+E:\SEM IV\PAIM\LABY\projekty\Solution1\Laboratorium\Microservices\Doctors\Doctors.Domain\obj\Debug\net5.0\Doctors.Domain.pdb

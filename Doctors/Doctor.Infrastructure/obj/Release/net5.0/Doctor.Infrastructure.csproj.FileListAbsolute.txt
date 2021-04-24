@@ -1,0 +1,15 @@
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\Lab3\Microservices\Doctors\Doctor.Infrastructure\bin\Release\net5.0\Doctor.Infrastructure.deps.json
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\Lab3\Microservices\Doctors\Doctor.Infrastructure\bin\Release\net5.0\Doctor.Infrastructure.dll
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\Lab3\Microservices\Doctors\Doctor.Infrastructure\bin\Release\net5.0\ref\Doctor.Infrastructure.dll
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\Lab3\Microservices\Doctors\Doctor.Infrastructure\bin\Release\net5.0\Doctor.Infrastructure.pdb
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\Lab3\Microservices\Doctors\Doctor.Infrastructure\bin\Release\net5.0\Doctors.Domain.dll
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\Lab3\Microservices\Doctors\Doctor.Infrastructure\bin\Release\net5.0\Doctors.Domain.pdb
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\Lab3\Microservices\Doctors\Doctor.Infrastructure\obj\Release\net5.0\Doctor.Infrastructure.csprojAssemblyReference.cache
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\Lab3\Microservices\Doctors\Doctor.Infrastructure\obj\Release\net5.0\Doctor.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\Lab3\Microservices\Doctors\Doctor.Infrastructure\obj\Release\net5.0\Doctor.Infrastructure.AssemblyInfoInputs.cache
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\Lab3\Microservices\Doctors\Doctor.Infrastructure\obj\Release\net5.0\Doctor.Infrastructure.AssemblyInfo.cs
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\Lab3\Microservices\Doctors\Doctor.Infrastructure\obj\Release\net5.0\Doctor.Infrastructure.csproj.CoreCompileInputs.cache
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\Lab3\Microservices\Doctors\Doctor.Infrastructure\obj\Release\net5.0\Doctor.Infrastructure.csproj.CopyComplete
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\Lab3\Microservices\Doctors\Doctor.Infrastructure\obj\Release\net5.0\Doctor.Infrastructure.dll
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\Lab3\Microservices\Doctors\Doctor.Infrastructure\obj\Release\net5.0\ref\Doctor.Infrastructure.dll
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\Lab3\Microservices\Doctors\Doctor.Infrastructure\obj\Release\net5.0\Doctor.Infrastructure.pdb

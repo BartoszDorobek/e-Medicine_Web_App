@@ -1,0 +1,12 @@
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\projekty\Microservice_ER\ExaminationRooms\ExaminationRooms.Domain\bin\Debug\net5.0\ExaminationRooms.Domain.deps.json
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\projekty\Microservice_ER\ExaminationRooms\ExaminationRooms.Domain\bin\Debug\net5.0\ExaminationRooms.Domain.dll
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\projekty\Microservice_ER\ExaminationRooms\ExaminationRooms.Domain\bin\Debug\net5.0\ref\ExaminationRooms.Domain.dll
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\projekty\Microservice_ER\ExaminationRooms\ExaminationRooms.Domain\bin\Debug\net5.0\ExaminationRooms.Domain.pdb
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\projekty\Microservice_ER\ExaminationRooms\ExaminationRooms.Domain\obj\Debug\net5.0\ExaminationRooms.Domain.csprojAssemblyReference.cache
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\projekty\Microservice_ER\ExaminationRooms\ExaminationRooms.Domain\obj\Debug\net5.0\ExaminationRooms.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\projekty\Microservice_ER\ExaminationRooms\ExaminationRooms.Domain\obj\Debug\net5.0\ExaminationRooms.Domain.AssemblyInfoInputs.cache
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\projekty\Microservice_ER\ExaminationRooms\ExaminationRooms.Domain\obj\Debug\net5.0\ExaminationRooms.Domain.AssemblyInfo.cs
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\projekty\Microservice_ER\ExaminationRooms\ExaminationRooms.Domain\obj\Debug\net5.0\ExaminationRooms.Domain.csproj.CoreCompileInputs.cache
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\projekty\Microservice_ER\ExaminationRooms\ExaminationRooms.Domain\obj\Debug\net5.0\ExaminationRooms.Domain.dll
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\projekty\Microservice_ER\ExaminationRooms\ExaminationRooms.Domain\obj\Debug\net5.0\ref\ExaminationRooms.Domain.dll
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\projekty\Microservice_ER\ExaminationRooms\ExaminationRooms.Domain\obj\Debug\net5.0\ExaminationRooms.Domain.pdb

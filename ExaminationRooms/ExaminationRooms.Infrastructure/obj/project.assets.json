@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "ExaminationRooms.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/ExaminationRooms.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ExaminationRooms.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExaminationRooms.Domain/1.0.0": {
+      "type": "project",
+      "path": "../ExaminationRooms.Domain/ExaminationRooms.Domain.csproj",
+      "msbuildProject": "../ExaminationRooms.Domain/ExaminationRooms.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "ExaminationRooms.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\barto\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\SEM IV\\PAIM\\LABY\\repozytorium\\PAIM_LAB_21L\\Laboratorium\\Microservices\\ExaminationRooms\\ExaminationRooms.Infrastructure\\ExaminationRooms.Infrastructure.csproj",
+      "projectName": "ExaminationRooms.Infrastructure",
+      "projectPath": "E:\\SEM IV\\PAIM\\LABY\\repozytorium\\PAIM_LAB_21L\\Laboratorium\\Microservices\\ExaminationRooms\\ExaminationRooms.Infrastructure\\ExaminationRooms.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\barto\\.nuget\\packages\\",
+      "outputPath": "E:\\SEM IV\\PAIM\\LABY\\repozytorium\\PAIM_LAB_21L\\Laboratorium\\Microservices\\ExaminationRooms\\ExaminationRooms.Infrastructure\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\barto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "E:\\SEM IV\\PAIM\\LABY\\repozytorium\\PAIM_LAB_21L\\Laboratorium\\Microservices\\ExaminationRooms\\ExaminationRooms.Domain\\ExaminationRooms.Domain.csproj": {
+              "projectPath": "E:\\SEM IV\\PAIM\\LABY\\repozytorium\\PAIM_LAB_21L\\Laboratorium\\Microservices\\ExaminationRooms\\ExaminationRooms.Domain\\ExaminationRooms.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

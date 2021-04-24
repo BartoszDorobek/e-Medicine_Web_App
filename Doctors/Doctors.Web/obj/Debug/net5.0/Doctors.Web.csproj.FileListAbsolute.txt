@@ -1,0 +1,132 @@
+F:\Studia\4SEM\PAIM\laby\laboratorium\Laboratorium\Doctors.Web\bin\Debug\net5.0\appsettings.Development.json
+F:\Studia\4SEM\PAIM\laby\laboratorium\Laboratorium\Doctors.Web\bin\Debug\net5.0\appsettings.json
+F:\Studia\4SEM\PAIM\laby\laboratorium\Laboratorium\Doctors.Web\bin\Debug\net5.0\Doctors.Web.exe
+F:\Studia\4SEM\PAIM\laby\laboratorium\Laboratorium\Doctors.Web\bin\Debug\net5.0\Doctors.Web.deps.json
+F:\Studia\4SEM\PAIM\laby\laboratorium\Laboratorium\Doctors.Web\bin\Debug\net5.0\Doctors.Web.runtimeconfig.json
+F:\Studia\4SEM\PAIM\laby\laboratorium\Laboratorium\Doctors.Web\bin\Debug\net5.0\Doctors.Web.runtimeconfig.dev.json
+F:\Studia\4SEM\PAIM\laby\laboratorium\Laboratorium\Doctors.Web\bin\Debug\net5.0\Doctors.Web.dll
+F:\Studia\4SEM\PAIM\laby\laboratorium\Laboratorium\Doctors.Web\bin\Debug\net5.0\ref\Doctors.Web.dll
+F:\Studia\4SEM\PAIM\laby\laboratorium\Laboratorium\Doctors.Web\bin\Debug\net5.0\Doctors.Web.pdb
+F:\Studia\4SEM\PAIM\laby\laboratorium\Laboratorium\Doctors.Web\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\Studia\4SEM\PAIM\laby\laboratorium\Laboratorium\Doctors.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Studia\4SEM\PAIM\laby\laboratorium\Laboratorium\Doctors.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Studia\4SEM\PAIM\laby\laboratorium\Laboratorium\Doctors.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Studia\4SEM\PAIM\laby\laboratorium\Laboratorium\Doctors.Web\obj\Debug\net5.0\Doctors.Web.csprojAssemblyReference.cache
+F:\Studia\4SEM\PAIM\laby\laboratorium\Laboratorium\Doctors.Web\obj\Debug\net5.0\Doctors.Web.GeneratedMSBuildEditorConfig.editorconfig
+F:\Studia\4SEM\PAIM\laby\laboratorium\Laboratorium\Doctors.Web\obj\Debug\net5.0\Doctors.Web.AssemblyInfoInputs.cache
+F:\Studia\4SEM\PAIM\laby\laboratorium\Laboratorium\Doctors.Web\obj\Debug\net5.0\Doctors.Web.AssemblyInfo.cs
+F:\Studia\4SEM\PAIM\laby\laboratorium\Laboratorium\Doctors.Web\obj\Debug\net5.0\Doctors.Web.csproj.CoreCompileInputs.cache
+F:\Studia\4SEM\PAIM\laby\laboratorium\Laboratorium\Doctors.Web\obj\Debug\net5.0\Doctors.Web.MvcApplicationPartsAssemblyInfo.cs
+F:\Studia\4SEM\PAIM\laby\laboratorium\Laboratorium\Doctors.Web\obj\Debug\net5.0\Doctors.Web.MvcApplicationPartsAssemblyInfo.cache
+F:\Studia\4SEM\PAIM\laby\laboratorium\Laboratorium\Doctors.Web\obj\Debug\net5.0\staticwebassets\Doctors.Web.StaticWebAssets.Manifest.cache
+F:\Studia\4SEM\PAIM\laby\laboratorium\Laboratorium\Doctors.Web\obj\Debug\net5.0\staticwebassets\Doctors.Web.StaticWebAssets.xml
+F:\Studia\4SEM\PAIM\laby\laboratorium\Laboratorium\Doctors.Web\obj\Debug\net5.0\scopedcss\bundle\Doctors.Web.styles.css
+F:\Studia\4SEM\PAIM\laby\laboratorium\Laboratorium\Doctors.Web\obj\Debug\net5.0\Doctors.Web.RazorTargetAssemblyInfo.cache
+F:\Studia\4SEM\PAIM\laby\laboratorium\Laboratorium\Doctors.Web\obj\Debug\net5.0\Doctors.Web.csproj.CopyComplete
+F:\Studia\4SEM\PAIM\laby\laboratorium\Laboratorium\Doctors.Web\obj\Debug\net5.0\Doctors.Web.dll
+F:\Studia\4SEM\PAIM\laby\laboratorium\Laboratorium\Doctors.Web\obj\Debug\net5.0\ref\Doctors.Web.dll
+F:\Studia\4SEM\PAIM\laby\laboratorium\Laboratorium\Doctors.Web\obj\Debug\net5.0\Doctors.Web.pdb
+F:\Studia\4SEM\PAIM\laby\laboratorium\Laboratorium\Doctors.Web\obj\Debug\net5.0\Doctors.Web.genruntimeconfig.cache
+F:\Studia\4SEM\PAIM\laby\laboratorium\Laboratorium\Doctors.Web\bin\Debug\net5.0\Doctors.Domain.dll
+F:\Studia\4SEM\PAIM\laby\laboratorium\Laboratorium\Doctors.Web\bin\Debug\net5.0\Doctors.Infrastructure.dll
+F:\Studia\4SEM\PAIM\laby\laboratorium\Laboratorium\Doctors.Web\bin\Debug\net5.0\Doctors.Infrastructure.pdb
+F:\Studia\4SEM\PAIM\laby\laboratorium\Laboratorium\Doctors.Web\bin\Debug\net5.0\Doctors.Domain.pdb
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\Lab3\Microservices\Doctors\Doctors.Web\bin\Debug\net5.0\appsettings.Development.json
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\Lab3\Microservices\Doctors\Doctors.Web\bin\Debug\net5.0\appsettings.json
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\Lab3\Microservices\Doctors\Doctors.Web\bin\Debug\net5.0\Doctors.Web.exe
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\Lab3\Microservices\Doctors\Doctors.Web\bin\Debug\net5.0\Doctors.Web.deps.json
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\Lab3\Microservices\Doctors\Doctors.Web\bin\Debug\net5.0\Doctors.Web.runtimeconfig.json
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\Lab3\Microservices\Doctors\Doctors.Web\bin\Debug\net5.0\Doctors.Web.runtimeconfig.dev.json
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\Lab3\Microservices\Doctors\Doctors.Web\bin\Debug\net5.0\Doctors.Web.dll
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\Lab3\Microservices\Doctors\Doctors.Web\bin\Debug\net5.0\ref\Doctors.Web.dll
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\Lab3\Microservices\Doctors\Doctors.Web\bin\Debug\net5.0\Doctors.Web.pdb
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\Lab3\Microservices\Doctors\Doctors.Web\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\Lab3\Microservices\Doctors\Doctors.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\Lab3\Microservices\Doctors\Doctors.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\Lab3\Microservices\Doctors\Doctors.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\Lab3\Microservices\Doctors\Doctors.Web\bin\Debug\net5.0\Doctor.Infrastructure.dll
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\Lab3\Microservices\Doctors\Doctors.Web\bin\Debug\net5.0\Doctors.Domain.dll
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\Lab3\Microservices\Doctors\Doctors.Web\bin\Debug\net5.0\Doctor.Infrastructure.pdb
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\Lab3\Microservices\Doctors\Doctors.Web\bin\Debug\net5.0\Doctors.Domain.pdb
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\Lab3\Microservices\Doctors\Doctors.Web\obj\Debug\net5.0\Doctors.Web.csprojAssemblyReference.cache
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\Lab3\Microservices\Doctors\Doctors.Web\obj\Debug\net5.0\Doctors.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\Lab3\Microservices\Doctors\Doctors.Web\obj\Debug\net5.0\Doctors.Web.AssemblyInfoInputs.cache
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\Lab3\Microservices\Doctors\Doctors.Web\obj\Debug\net5.0\Doctors.Web.AssemblyInfo.cs
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\Lab3\Microservices\Doctors\Doctors.Web\obj\Debug\net5.0\Doctors.Web.csproj.CoreCompileInputs.cache
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\Lab3\Microservices\Doctors\Doctors.Web\obj\Debug\net5.0\Doctors.Web.MvcApplicationPartsAssemblyInfo.cs
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\Lab3\Microservices\Doctors\Doctors.Web\obj\Debug\net5.0\Doctors.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\Lab3\Microservices\Doctors\Doctors.Web\obj\Debug\net5.0\staticwebassets\Doctors.Web.StaticWebAssets.Manifest.cache
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\Lab3\Microservices\Doctors\Doctors.Web\obj\Debug\net5.0\staticwebassets\Doctors.Web.StaticWebAssets.xml
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\Lab3\Microservices\Doctors\Doctors.Web\obj\Debug\net5.0\scopedcss\bundle\Doctors.Web.styles.css
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\Lab3\Microservices\Doctors\Doctors.Web\obj\Debug\net5.0\Doctors.Web.RazorTargetAssemblyInfo.cache
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\Lab3\Microservices\Doctors\Doctors.Web\obj\Debug\net5.0\Doctors.Web.csproj.CopyComplete
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\Lab3\Microservices\Doctors\Doctors.Web\obj\Debug\net5.0\Doctors.Web.dll
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\Lab3\Microservices\Doctors\Doctors.Web\obj\Debug\net5.0\ref\Doctors.Web.dll
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\Lab3\Microservices\Doctors\Doctors.Web\obj\Debug\net5.0\Doctors.Web.pdb
+E:\SEM IV\PAIM - projektowanie aplikacji internetowych i mobilnych\LABY\Lab3\Microservices\Doctors\Doctors.Web\obj\Debug\net5.0\Doctors.Web.genruntimeconfig.cache
+E:\SEM IV\PAIM\LABY\projekty\Solution1\Laboratorium\Microservices\Doctors\Doctors.Web\bin\Debug\net5.0\appsettings.Development.json
+E:\SEM IV\PAIM\LABY\projekty\Solution1\Laboratorium\Microservices\Doctors\Doctors.Web\bin\Debug\net5.0\appsettings.json
+E:\SEM IV\PAIM\LABY\projekty\Solution1\Laboratorium\Microservices\Doctors\Doctors.Web\bin\Debug\net5.0\Doctors.Web.exe
+E:\SEM IV\PAIM\LABY\projekty\Solution1\Laboratorium\Microservices\Doctors\Doctors.Web\bin\Debug\net5.0\Doctors.Web.deps.json
+E:\SEM IV\PAIM\LABY\projekty\Solution1\Laboratorium\Microservices\Doctors\Doctors.Web\bin\Debug\net5.0\Doctors.Web.runtimeconfig.json
+E:\SEM IV\PAIM\LABY\projekty\Solution1\Laboratorium\Microservices\Doctors\Doctors.Web\bin\Debug\net5.0\Doctors.Web.runtimeconfig.dev.json
+E:\SEM IV\PAIM\LABY\projekty\Solution1\Laboratorium\Microservices\Doctors\Doctors.Web\bin\Debug\net5.0\Doctors.Web.dll
+E:\SEM IV\PAIM\LABY\projekty\Solution1\Laboratorium\Microservices\Doctors\Doctors.Web\bin\Debug\net5.0\ref\Doctors.Web.dll
+E:\SEM IV\PAIM\LABY\projekty\Solution1\Laboratorium\Microservices\Doctors\Doctors.Web\bin\Debug\net5.0\Doctors.Web.pdb
+E:\SEM IV\PAIM\LABY\projekty\Solution1\Laboratorium\Microservices\Doctors\Doctors.Web\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\SEM IV\PAIM\LABY\projekty\Solution1\Laboratorium\Microservices\Doctors\Doctors.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\SEM IV\PAIM\LABY\projekty\Solution1\Laboratorium\Microservices\Doctors\Doctors.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\SEM IV\PAIM\LABY\projekty\Solution1\Laboratorium\Microservices\Doctors\Doctors.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\SEM IV\PAIM\LABY\projekty\Solution1\Laboratorium\Microservices\Doctors\Doctors.Web\bin\Debug\net5.0\Doctor.Infrastructure.dll
+E:\SEM IV\PAIM\LABY\projekty\Solution1\Laboratorium\Microservices\Doctors\Doctors.Web\bin\Debug\net5.0\Doctors.Domain.dll
+E:\SEM IV\PAIM\LABY\projekty\Solution1\Laboratorium\Microservices\Doctors\Doctors.Web\bin\Debug\net5.0\Doctor.Infrastructure.pdb
+E:\SEM IV\PAIM\LABY\projekty\Solution1\Laboratorium\Microservices\Doctors\Doctors.Web\bin\Debug\net5.0\Doctors.Domain.pdb
+E:\SEM IV\PAIM\LABY\projekty\Solution1\Laboratorium\Microservices\Doctors\Doctors.Web\obj\Debug\net5.0\Doctors.Web.csprojAssemblyReference.cache
+E:\SEM IV\PAIM\LABY\projekty\Solution1\Laboratorium\Microservices\Doctors\Doctors.Web\obj\Debug\net5.0\Doctors.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEM IV\PAIM\LABY\projekty\Solution1\Laboratorium\Microservices\Doctors\Doctors.Web\obj\Debug\net5.0\Doctors.Web.AssemblyInfoInputs.cache
+E:\SEM IV\PAIM\LABY\projekty\Solution1\Laboratorium\Microservices\Doctors\Doctors.Web\obj\Debug\net5.0\Doctors.Web.AssemblyInfo.cs
+E:\SEM IV\PAIM\LABY\projekty\Solution1\Laboratorium\Microservices\Doctors\Doctors.Web\obj\Debug\net5.0\Doctors.Web.csproj.CoreCompileInputs.cache
+E:\SEM IV\PAIM\LABY\projekty\Solution1\Laboratorium\Microservices\Doctors\Doctors.Web\obj\Debug\net5.0\Doctors.Web.MvcApplicationPartsAssemblyInfo.cs
+E:\SEM IV\PAIM\LABY\projekty\Solution1\Laboratorium\Microservices\Doctors\Doctors.Web\obj\Debug\net5.0\Doctors.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\SEM IV\PAIM\LABY\projekty\Solution1\Laboratorium\Microservices\Doctors\Doctors.Web\obj\Debug\net5.0\staticwebassets\Doctors.Web.StaticWebAssets.Manifest.cache
+E:\SEM IV\PAIM\LABY\projekty\Solution1\Laboratorium\Microservices\Doctors\Doctors.Web\obj\Debug\net5.0\staticwebassets\Doctors.Web.StaticWebAssets.xml
+E:\SEM IV\PAIM\LABY\projekty\Solution1\Laboratorium\Microservices\Doctors\Doctors.Web\obj\Debug\net5.0\scopedcss\bundle\Doctors.Web.styles.css
+E:\SEM IV\PAIM\LABY\projekty\Solution1\Laboratorium\Microservices\Doctors\Doctors.Web\obj\Debug\net5.0\Doctors.Web.RazorTargetAssemblyInfo.cache
+E:\SEM IV\PAIM\LABY\projekty\Solution1\Laboratorium\Microservices\Doctors\Doctors.Web\obj\Debug\net5.0\Doctors.Web.csproj.CopyComplete
+E:\SEM IV\PAIM\LABY\projekty\Solution1\Laboratorium\Microservices\Doctors\Doctors.Web\obj\Debug\net5.0\Doctors.Web.dll
+E:\SEM IV\PAIM\LABY\projekty\Solution1\Laboratorium\Microservices\Doctors\Doctors.Web\obj\Debug\net5.0\ref\Doctors.Web.dll
+E:\SEM IV\PAIM\LABY\projekty\Solution1\Laboratorium\Microservices\Doctors\Doctors.Web\obj\Debug\net5.0\Doctors.Web.pdb
+E:\SEM IV\PAIM\LABY\projekty\Solution1\Laboratorium\Microservices\Doctors\Doctors.Web\obj\Debug\net5.0\Doctors.Web.genruntimeconfig.cache
+E:\SEM IV\PAIM\LABY\projekty\PAIM_LAB_21L\Laboratorium\Microservices\Doctors\Doctors.Web\bin\Debug\net5.0\appsettings.Development.json
+E:\SEM IV\PAIM\LABY\projekty\PAIM_LAB_21L\Laboratorium\Microservices\Doctors\Doctors.Web\bin\Debug\net5.0\appsettings.json
+E:\SEM IV\PAIM\LABY\projekty\PAIM_LAB_21L\Laboratorium\Microservices\Doctors\Doctors.Web\bin\Debug\net5.0\Doctors.Web.exe
+E:\SEM IV\PAIM\LABY\projekty\PAIM_LAB_21L\Laboratorium\Microservices\Doctors\Doctors.Web\bin\Debug\net5.0\Doctors.Web.deps.json
+E:\SEM IV\PAIM\LABY\projekty\PAIM_LAB_21L\Laboratorium\Microservices\Doctors\Doctors.Web\bin\Debug\net5.0\Doctors.Web.runtimeconfig.json
+E:\SEM IV\PAIM\LABY\projekty\PAIM_LAB_21L\Laboratorium\Microservices\Doctors\Doctors.Web\bin\Debug\net5.0\Doctors.Web.runtimeconfig.dev.json
+E:\SEM IV\PAIM\LABY\projekty\PAIM_LAB_21L\Laboratorium\Microservices\Doctors\Doctors.Web\bin\Debug\net5.0\Doctors.Web.dll
+E:\SEM IV\PAIM\LABY\projekty\PAIM_LAB_21L\Laboratorium\Microservices\Doctors\Doctors.Web\bin\Debug\net5.0\ref\Doctors.Web.dll
+E:\SEM IV\PAIM\LABY\projekty\PAIM_LAB_21L\Laboratorium\Microservices\Doctors\Doctors.Web\bin\Debug\net5.0\Doctors.Web.pdb
+E:\SEM IV\PAIM\LABY\projekty\PAIM_LAB_21L\Laboratorium\Microservices\Doctors\Doctors.Web\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\SEM IV\PAIM\LABY\projekty\PAIM_LAB_21L\Laboratorium\Microservices\Doctors\Doctors.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\SEM IV\PAIM\LABY\projekty\PAIM_LAB_21L\Laboratorium\Microservices\Doctors\Doctors.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\SEM IV\PAIM\LABY\projekty\PAIM_LAB_21L\Laboratorium\Microservices\Doctors\Doctors.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\SEM IV\PAIM\LABY\projekty\PAIM_LAB_21L\Laboratorium\Microservices\Doctors\Doctors.Web\bin\Debug\net5.0\Doctor.Infrastructure.dll
+E:\SEM IV\PAIM\LABY\projekty\PAIM_LAB_21L\Laboratorium\Microservices\Doctors\Doctors.Web\bin\Debug\net5.0\Doctors.Domain.dll
+E:\SEM IV\PAIM\LABY\projekty\PAIM_LAB_21L\Laboratorium\Microservices\Doctors\Doctors.Web\bin\Debug\net5.0\Doctor.Infrastructure.pdb
+E:\SEM IV\PAIM\LABY\projekty\PAIM_LAB_21L\Laboratorium\Microservices\Doctors\Doctors.Web\bin\Debug\net5.0\Doctors.Domain.pdb
+E:\SEM IV\PAIM\LABY\projekty\PAIM_LAB_21L\Laboratorium\Microservices\Doctors\Doctors.Web\obj\Debug\net5.0\Doctors.Web.csprojAssemblyReference.cache
+E:\SEM IV\PAIM\LABY\projekty\PAIM_LAB_21L\Laboratorium\Microservices\Doctors\Doctors.Web\obj\Debug\net5.0\Doctors.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEM IV\PAIM\LABY\projekty\PAIM_LAB_21L\Laboratorium\Microservices\Doctors\Doctors.Web\obj\Debug\net5.0\Doctors.Web.AssemblyInfoInputs.cache
+E:\SEM IV\PAIM\LABY\projekty\PAIM_LAB_21L\Laboratorium\Microservices\Doctors\Doctors.Web\obj\Debug\net5.0\Doctors.Web.AssemblyInfo.cs
+E:\SEM IV\PAIM\LABY\projekty\PAIM_LAB_21L\Laboratorium\Microservices\Doctors\Doctors.Web\obj\Debug\net5.0\Doctors.Web.csproj.CoreCompileInputs.cache
+E:\SEM IV\PAIM\LABY\projekty\PAIM_LAB_21L\Laboratorium\Microservices\Doctors\Doctors.Web\obj\Debug\net5.0\Doctors.Web.MvcApplicationPartsAssemblyInfo.cs
+E:\SEM IV\PAIM\LABY\projekty\PAIM_LAB_21L\Laboratorium\Microservices\Doctors\Doctors.Web\obj\Debug\net5.0\Doctors.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\SEM IV\PAIM\LABY\projekty\PAIM_LAB_21L\Laboratorium\Microservices\Doctors\Doctors.Web\obj\Debug\net5.0\staticwebassets\Doctors.Web.StaticWebAssets.Manifest.cache
+E:\SEM IV\PAIM\LABY\projekty\PAIM_LAB_21L\Laboratorium\Microservices\Doctors\Doctors.Web\obj\Debug\net5.0\staticwebassets\Doctors.Web.StaticWebAssets.xml
+E:\SEM IV\PAIM\LABY\projekty\PAIM_LAB_21L\Laboratorium\Microservices\Doctors\Doctors.Web\obj\Debug\net5.0\scopedcss\bundle\Doctors.Web.styles.css
+E:\SEM IV\PAIM\LABY\projekty\PAIM_LAB_21L\Laboratorium\Microservices\Doctors\Doctors.Web\obj\Debug\net5.0\Doctors.Web.RazorTargetAssemblyInfo.cache
+E:\SEM IV\PAIM\LABY\projekty\PAIM_LAB_21L\Laboratorium\Microservices\Doctors\Doctors.Web\obj\Debug\net5.0\Doctors.Web.csproj.CopyComplete
+E:\SEM IV\PAIM\LABY\projekty\PAIM_LAB_21L\Laboratorium\Microservices\Doctors\Doctors.Web\obj\Debug\net5.0\Doctors.Web.dll
+E:\SEM IV\PAIM\LABY\projekty\PAIM_LAB_21L\Laboratorium\Microservices\Doctors\Doctors.Web\obj\Debug\net5.0\ref\Doctors.Web.dll
+E:\SEM IV\PAIM\LABY\projekty\PAIM_LAB_21L\Laboratorium\Microservices\Doctors\Doctors.Web\obj\Debug\net5.0\Doctors.Web.pdb
+E:\SEM IV\PAIM\LABY\projekty\PAIM_LAB_21L\Laboratorium\Microservices\Doctors\Doctors.Web\obj\Debug\net5.0\Doctors.Web.genruntimeconfig.cache

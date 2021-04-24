@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Doctor.Infrastructure/1.0.0": {
+        "dependencies": {
+          "Doctors.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Doctor.Infrastructure.dll": {}
+        }
+      },
+      "Doctors.Domain/1.0.0": {
+        "runtime": {
+          "Doctors.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Doctor.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Doctors.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
