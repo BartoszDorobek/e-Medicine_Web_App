@@ -1,0 +1,28 @@
+E:\SEM IV\PAIM_nowa lepsza jakość\2021l_paim_lab-master\Web\ZsutPwPatterns.Application.Controller\bin\Debug\netcoreapp3.1\ZsutPwPatterns.Application.Controller.deps.json
+E:\SEM IV\PAIM_nowa lepsza jakość\2021l_paim_lab-master\Web\ZsutPwPatterns.Application.Controller\bin\Debug\netcoreapp3.1\ZsutPwPatterns.Application.Controller.dll
+E:\SEM IV\PAIM_nowa lepsza jakość\2021l_paim_lab-master\Web\ZsutPwPatterns.Application.Controller\bin\Debug\netcoreapp3.1\ZsutPwPatterns.Application.Controller.pdb
+E:\SEM IV\PAIM_nowa lepsza jakość\2021l_paim_lab-master\Web\ZsutPwPatterns.Application.Controller\bin\Debug\netcoreapp3.1\ZsutPwPatterns.Application.Model.dll
+E:\SEM IV\PAIM_nowa lepsza jakość\2021l_paim_lab-master\Web\ZsutPwPatterns.Application.Controller\bin\Debug\netcoreapp3.1\ZsutPwPatterns.Application.Utilities.dll
+E:\SEM IV\PAIM_nowa lepsza jakość\2021l_paim_lab-master\Web\ZsutPwPatterns.Application.Controller\bin\Debug\netcoreapp3.1\ZsutPwPatterns.Application.Model.pdb
+E:\SEM IV\PAIM_nowa lepsza jakość\2021l_paim_lab-master\Web\ZsutPwPatterns.Application.Controller\bin\Debug\netcoreapp3.1\ZsutPwPatterns.Application.Utilities.pdb
+E:\SEM IV\PAIM_nowa lepsza jakość\2021l_paim_lab-master\Web\ZsutPwPatterns.Application.Controller\obj\Debug\netcoreapp3.1\ZsutPwPatterns.Application.Controller.csprojAssemblyReference.cache
+E:\SEM IV\PAIM_nowa lepsza jakość\2021l_paim_lab-master\Web\ZsutPwPatterns.Application.Controller\obj\Debug\netcoreapp3.1\ZsutPwPatterns.Application.Controller.AssemblyInfoInputs.cache
+E:\SEM IV\PAIM_nowa lepsza jakość\2021l_paim_lab-master\Web\ZsutPwPatterns.Application.Controller\obj\Debug\netcoreapp3.1\ZsutPwPatterns.Application.Controller.AssemblyInfo.cs
+E:\SEM IV\PAIM_nowa lepsza jakość\2021l_paim_lab-master\Web\ZsutPwPatterns.Application.Controller\obj\Debug\netcoreapp3.1\ZsutPwPatterns.Application.Controller.csproj.CoreCompileInputs.cache
+E:\SEM IV\PAIM_nowa lepsza jakość\2021l_paim_lab-master\Web\ZsutPwPatterns.Application.Controller\obj\Debug\netcoreapp3.1\ZsutPwPatterns.Application.Controller.csproj.CopyComplete
+E:\SEM IV\PAIM_nowa lepsza jakość\2021l_paim_lab-master\Web\ZsutPwPatterns.Application.Controller\obj\Debug\netcoreapp3.1\ZsutPwPatterns.Application.Controller.dll
+E:\SEM IV\PAIM_nowa lepsza jakość\2021l_paim_lab-master\Web\ZsutPwPatterns.Application.Controller\obj\Debug\netcoreapp3.1\ZsutPwPatterns.Application.Controller.pdb
+E:\SEM IV\PAIM_nowa lepsza jakość\Nowy folder\Web\ZsutPwPatterns.Application.Controller\bin\Debug\netcoreapp3.1\ZsutPwPatterns.Application.Controller.deps.json
+E:\SEM IV\PAIM_nowa lepsza jakość\Nowy folder\Web\ZsutPwPatterns.Application.Controller\bin\Debug\netcoreapp3.1\ZsutPwPatterns.Application.Controller.dll
+E:\SEM IV\PAIM_nowa lepsza jakość\Nowy folder\Web\ZsutPwPatterns.Application.Controller\bin\Debug\netcoreapp3.1\ZsutPwPatterns.Application.Controller.pdb
+E:\SEM IV\PAIM_nowa lepsza jakość\Nowy folder\Web\ZsutPwPatterns.Application.Controller\bin\Debug\netcoreapp3.1\ZsutPwPatterns.Application.Model.dll
+E:\SEM IV\PAIM_nowa lepsza jakość\Nowy folder\Web\ZsutPwPatterns.Application.Controller\bin\Debug\netcoreapp3.1\ZsutPwPatterns.Application.Utilities.dll
+E:\SEM IV\PAIM_nowa lepsza jakość\Nowy folder\Web\ZsutPwPatterns.Application.Controller\bin\Debug\netcoreapp3.1\ZsutPwPatterns.Application.Model.pdb
+E:\SEM IV\PAIM_nowa lepsza jakość\Nowy folder\Web\ZsutPwPatterns.Application.Controller\bin\Debug\netcoreapp3.1\ZsutPwPatterns.Application.Utilities.pdb
+E:\SEM IV\PAIM_nowa lepsza jakość\Nowy folder\Web\ZsutPwPatterns.Application.Controller\obj\Debug\netcoreapp3.1\ZsutPwPatterns.Application.Controller.csprojAssemblyReference.cache
+E:\SEM IV\PAIM_nowa lepsza jakość\Nowy folder\Web\ZsutPwPatterns.Application.Controller\obj\Debug\netcoreapp3.1\ZsutPwPatterns.Application.Controller.AssemblyInfoInputs.cache
+E:\SEM IV\PAIM_nowa lepsza jakość\Nowy folder\Web\ZsutPwPatterns.Application.Controller\obj\Debug\netcoreapp3.1\ZsutPwPatterns.Application.Controller.AssemblyInfo.cs
+E:\SEM IV\PAIM_nowa lepsza jakość\Nowy folder\Web\ZsutPwPatterns.Application.Controller\obj\Debug\netcoreapp3.1\ZsutPwPatterns.Application.Controller.csproj.CoreCompileInputs.cache
+E:\SEM IV\PAIM_nowa lepsza jakość\Nowy folder\Web\ZsutPwPatterns.Application.Controller\obj\Debug\netcoreapp3.1\ZsutPwPatterns.Application.Controller.csproj.CopyComplete
+E:\SEM IV\PAIM_nowa lepsza jakość\Nowy folder\Web\ZsutPwPatterns.Application.Controller\obj\Debug\netcoreapp3.1\ZsutPwPatterns.Application.Controller.dll
+E:\SEM IV\PAIM_nowa lepsza jakość\Nowy folder\Web\ZsutPwPatterns.Application.Controller\obj\Debug\netcoreapp3.1\ZsutPwPatterns.Application.Controller.pdb

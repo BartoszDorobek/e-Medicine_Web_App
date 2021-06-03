@@ -1,0 +1,24 @@
+E:\SEM IV\PAIM_nowa lepsza jakość\2021l_paim_lab-master\Web\ZsutPwPatterns.Application.Model\bin\Debug\netcoreapp3.1\ZsutPwPatterns.Application.Model.deps.json
+E:\SEM IV\PAIM_nowa lepsza jakość\2021l_paim_lab-master\Web\ZsutPwPatterns.Application.Model\bin\Debug\netcoreapp3.1\ZsutPwPatterns.Application.Model.dll
+E:\SEM IV\PAIM_nowa lepsza jakość\2021l_paim_lab-master\Web\ZsutPwPatterns.Application.Model\bin\Debug\netcoreapp3.1\ZsutPwPatterns.Application.Model.pdb
+E:\SEM IV\PAIM_nowa lepsza jakość\2021l_paim_lab-master\Web\ZsutPwPatterns.Application.Model\bin\Debug\netcoreapp3.1\ZsutPwPatterns.Application.Utilities.dll
+E:\SEM IV\PAIM_nowa lepsza jakość\2021l_paim_lab-master\Web\ZsutPwPatterns.Application.Model\bin\Debug\netcoreapp3.1\ZsutPwPatterns.Application.Utilities.pdb
+E:\SEM IV\PAIM_nowa lepsza jakość\2021l_paim_lab-master\Web\ZsutPwPatterns.Application.Model\obj\Debug\netcoreapp3.1\ZsutPwPatterns.Application.Model.csprojAssemblyReference.cache
+E:\SEM IV\PAIM_nowa lepsza jakość\2021l_paim_lab-master\Web\ZsutPwPatterns.Application.Model\obj\Debug\netcoreapp3.1\ZsutPwPatterns.Application.Model.AssemblyInfoInputs.cache
+E:\SEM IV\PAIM_nowa lepsza jakość\2021l_paim_lab-master\Web\ZsutPwPatterns.Application.Model\obj\Debug\netcoreapp3.1\ZsutPwPatterns.Application.Model.AssemblyInfo.cs
+E:\SEM IV\PAIM_nowa lepsza jakość\2021l_paim_lab-master\Web\ZsutPwPatterns.Application.Model\obj\Debug\netcoreapp3.1\ZsutPwPatterns.Application.Model.csproj.CoreCompileInputs.cache
+E:\SEM IV\PAIM_nowa lepsza jakość\2021l_paim_lab-master\Web\ZsutPwPatterns.Application.Model\obj\Debug\netcoreapp3.1\ZsutPwPatterns.Application.Model.csproj.CopyComplete
+E:\SEM IV\PAIM_nowa lepsza jakość\2021l_paim_lab-master\Web\ZsutPwPatterns.Application.Model\obj\Debug\netcoreapp3.1\ZsutPwPatterns.Application.Model.dll
+E:\SEM IV\PAIM_nowa lepsza jakość\2021l_paim_lab-master\Web\ZsutPwPatterns.Application.Model\obj\Debug\netcoreapp3.1\ZsutPwPatterns.Application.Model.pdb
+E:\SEM IV\PAIM_nowa lepsza jakość\Nowy folder\Web\ZsutPwPatterns.Application.Model\bin\Debug\netcoreapp3.1\ZsutPwPatterns.Application.Model.deps.json
+E:\SEM IV\PAIM_nowa lepsza jakość\Nowy folder\Web\ZsutPwPatterns.Application.Model\bin\Debug\netcoreapp3.1\ZsutPwPatterns.Application.Model.dll
+E:\SEM IV\PAIM_nowa lepsza jakość\Nowy folder\Web\ZsutPwPatterns.Application.Model\bin\Debug\netcoreapp3.1\ZsutPwPatterns.Application.Model.pdb
+E:\SEM IV\PAIM_nowa lepsza jakość\Nowy folder\Web\ZsutPwPatterns.Application.Model\bin\Debug\netcoreapp3.1\ZsutPwPatterns.Application.Utilities.dll
+E:\SEM IV\PAIM_nowa lepsza jakość\Nowy folder\Web\ZsutPwPatterns.Application.Model\bin\Debug\netcoreapp3.1\ZsutPwPatterns.Application.Utilities.pdb
+E:\SEM IV\PAIM_nowa lepsza jakość\Nowy folder\Web\ZsutPwPatterns.Application.Model\obj\Debug\netcoreapp3.1\ZsutPwPatterns.Application.Model.csprojAssemblyReference.cache
+E:\SEM IV\PAIM_nowa lepsza jakość\Nowy folder\Web\ZsutPwPatterns.Application.Model\obj\Debug\netcoreapp3.1\ZsutPwPatterns.Application.Model.AssemblyInfoInputs.cache
+E:\SEM IV\PAIM_nowa lepsza jakość\Nowy folder\Web\ZsutPwPatterns.Application.Model\obj\Debug\netcoreapp3.1\ZsutPwPatterns.Application.Model.AssemblyInfo.cs
+E:\SEM IV\PAIM_nowa lepsza jakość\Nowy folder\Web\ZsutPwPatterns.Application.Model\obj\Debug\netcoreapp3.1\ZsutPwPatterns.Application.Model.csproj.CoreCompileInputs.cache
+E:\SEM IV\PAIM_nowa lepsza jakość\Nowy folder\Web\ZsutPwPatterns.Application.Model\obj\Debug\netcoreapp3.1\ZsutPwPatterns.Application.Model.csproj.CopyComplete
+E:\SEM IV\PAIM_nowa lepsza jakość\Nowy folder\Web\ZsutPwPatterns.Application.Model\obj\Debug\netcoreapp3.1\ZsutPwPatterns.Application.Model.dll
+E:\SEM IV\PAIM_nowa lepsza jakość\Nowy folder\Web\ZsutPwPatterns.Application.Model\obj\Debug\netcoreapp3.1\ZsutPwPatterns.Application.Model.pdb

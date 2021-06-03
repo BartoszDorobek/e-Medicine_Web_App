@@ -1,0 +1,24 @@
+﻿@page "/list"
+@inject IController controller
+@inject IModel model
+
+
+
+<h5>Wyszukaj lekarza:</h5>
+<input name="searchText" class="text-box single-line" @bind="model.SearchText" style="width: 200px" />
+<button name="searchButton" class="btn btn-secondary" @onclick="controller.SearchNodesAsync">Szukaj</button>
+
+<h5 style="margin: 4px 0px 4px 0px; color:black">Gabinety lekarskie</h5>
+<div class="col-xl-6" style="height: 240px; background-color:powderblue">
+  @foreach( DoctorCabinet nodeData in model.DoctorList )
+  {
+    <div class="row">
+      <button class="btn btn-">@nodeData.Name w gabinecie: @nodeData.Cabinet</button>
+    </div>
+  }
+</div>
+
+
+
+
+
